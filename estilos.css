@@ -1,0 +1,44 @@
+body{
+    background-color: brown;
+}
+
+h1{
+    background-color: salmon;
+    color: white;
+    border-style: solid;
+    border-color: beige;
+    border-radius: 30px;
+    text-align: center;
+    font-size: 5em;
+    width: 50%;
+    margin: 0 auto;
+}
+
+p{
+    color: white;
+    text-align: center;
+    font-size: 15px;
+}
+
+.contenedor{
+    display: block;
+    margin: 20px auto;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+
+iframe{
+    width: 500px;
+    height: 300px;
+    border: 5px;
+    border-style: dashed;
+    border-color: blue;
+    border-radius: 20px ;
+}
+
+.grupo{
+    width: 300px;
+    border-color: yellow;
+}
